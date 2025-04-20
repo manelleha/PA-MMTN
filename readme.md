@@ -17,7 +17,7 @@ L’application permet de :
 
 ```
 DENTAL_AI/
-├── app/              # Code de l'application web (ex : Streamlit ou Flask)
+├── app/              # Code de l'application web
 ├── data/             # Données organisées en sous-dossiers
 │   ├── train/        # Données d'entraînement
 │   ├── validation/   # Données de validation
